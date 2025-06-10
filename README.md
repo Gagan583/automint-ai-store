@@ -1,0 +1,1 @@
+# automint-ai-store
